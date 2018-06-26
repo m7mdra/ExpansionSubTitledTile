@@ -14,5 +14,4 @@ Same as `ExpansionTile`  but now you have extra property which is `subtitle`
 `subtitle` is a widget so you can basically put any thing in its place.
 
 **add to your project?** 
-just copy+paste the class and there you go 
-
+just copy+paste the class and there you go.
